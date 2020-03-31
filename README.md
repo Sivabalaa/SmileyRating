@@ -15,7 +15,7 @@
 * Swift 5.0 above
 * Xcode 11 above
 * Orientation support
-* Manual drop & drop the class
+* Manual drag & drop the class
 
 ## Demo
 
