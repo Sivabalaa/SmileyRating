@@ -20,6 +20,7 @@
 ## Demo
 
 ![Sample](https://raw.githubusercontent.com/Sivabalaa/SmileyRating/master/Images/Sample.gif)
+
 ![Sample0](https://raw.githubusercontent.com/Sivabalaa/SmileyRating/master/Images/SampleImage.png)
 
 ## Manual
