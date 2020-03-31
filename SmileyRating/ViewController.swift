@@ -19,7 +19,7 @@ class ViewController: UIViewController {
         setupRatingView()
     }
     
-    //Design
+    //MARK:- Design
     func setupRatingView() {
         sliderStepRating.stepImages =   [UIImage(named:"terrible")!, UIImage(named:"bad")!, UIImage(named:"okay")!, UIImage(named:"good")!,UIImage(named:"great")!, ]
         
