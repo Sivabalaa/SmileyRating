@@ -14,4 +14,7 @@
 
 ## Demo
 
+![Sample](https://gitlab.com/sivabalaa/smileyrating/-/raw/master/Images/Sample.gif)
+
+
 
