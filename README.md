@@ -19,7 +19,8 @@
 
 ## Demo
 
-![Sample](https://gitlab.com/sivabalaa/smileyrating/-/raw/master/Images/Sample.gif)
+![Sample](https://raw.githubusercontent.com/Sivabalaa/SmileyRating/master/Images/Sample.gif)
+![Sample0](https://raw.githubusercontent.com/Sivabalaa/SmileyRating/master/Images/SampleImage.png)
 
 ## Manual
 * Import `SliderStepRating.swift` into you project
@@ -29,11 +30,11 @@
 
 ## StoryBoard Demo
 
-![Sample](https://gitlab.com/sivabalaa/smileyrating/-/raw/master/Images/UISliderView_StoryBoard.png)
+![Sample](https://raw.githubusercontent.com/Sivabalaa/SmileyRating/master/Images/UISliderView_StoryBoard.png)
 
 ### By StoryBoard
 
-![StoryBoard](https://gitlab.com/sivabalaa/smileyrating/-/raw/master/Images/StoryBoard.png)
+![StoryBoard](https://raw.githubusercontent.com/Sivabalaa/SmileyRating/master/Images/StoryBoard.png)
 
 ## By Code
 
