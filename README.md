@@ -5,11 +5,11 @@
 [![License](http://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat)](http://mit-license.org)
 
 # About
-#### A custom range UISlider in Swift - Draggable, Tappable, @IBInspectable
+#### A custom range `UISlider` in Swift - Draggable, Tappable, `@IBInspectable`
 
 ## Overview
 * Easy customization(Font, Colors, Images, Ticks, Height, Width, Rounded)
-* @IBInspectable
+* `@IBInspectable`
 * Tappable
 * Draggable
 * Swift 5.0 above
@@ -22,14 +22,18 @@
 ![Sample](https://gitlab.com/sivabalaa/smileyrating/-/raw/master/Images/Sample.gif)
 
 ## Manual
-* Import SliderStepRating.swift into you project
-* Add UISlider in you Storyboard file
-* Set the UISlider class to SliderStep
+* Import `SliderStepRating.swift` into you project
+* Add `UISlider` in you Storyboard file
+* Set the `UISlider` class to `SliderStep`
 * Cheers :)
 
 ## StoryBoard Demo
 
 ![Sample](https://gitlab.com/sivabalaa/smileyrating/-/raw/master/Images/UISliderView_StoryBoard.png)
+
+### By StoryBoard
+
+![StoryBoard](https://gitlab.com/sivabalaa/smileyrating/-/raw/master/Images/StoryBoard.png)
 
 ## By Code
 
@@ -71,6 +75,25 @@ func setupRatingView() {
     ])
 }
 ```
+
+## Delegate methods 
+
+Whenever a user selects a ratings(Draggable, Tappable), the following method will be called:
+
+```swift
+//MARK:- SliderStepDelegate
+extension ViewController: SliderStepDelegate {
+    func didSelectedValue(sliderStep: SliderStep, value: Float) {
+        print(Int(value))
+    }
+}
+```
+
+License
+=================
+SliderStepRating is distributed under the MIT
+license (see LICENSE.md).
+
 
 
 
