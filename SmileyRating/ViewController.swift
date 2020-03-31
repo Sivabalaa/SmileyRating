@@ -48,7 +48,7 @@ class ViewController: UIViewController {
     }
 }
 
-//MARK:- Delegate
+//MARK:- SliderStepDelegate
 extension ViewController: SliderStepDelegate {
     func didSelectedValue(sliderStep: SliderStep, value: Float) {
         print(Int(value))
