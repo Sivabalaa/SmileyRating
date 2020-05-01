@@ -93,8 +93,8 @@ extension ViewController: SliderStepDelegate {
 
 License
 =================
-SliderStepRating is distributed under the MIT
-license (see https://mit-license.org).
+SliderStepRating is distributed under the [MIT
+license ](https://mit-license.org).
 
 
 
